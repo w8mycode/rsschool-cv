@@ -6,7 +6,7 @@
 
 ## Contact information:
 
-**Location:** Kazakhstan
+**Location:** Kazakhstan  
 **E-mail:** [w0s.pub@gmail.com](mailto:w0s.pub@gmail.com)  
 **GitHub:** [w8mycode](https://github.com/w8mycode)
 
