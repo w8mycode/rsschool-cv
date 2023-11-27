@@ -12,7 +12,7 @@
 
 ## **About Myself:**
 
-Hi! I like to learn new things, especially related to programming and new technologies. Currently learning **JS / FRONT-END** at [RS School](https://rs.school/). I have experience in sales, system administration, freelance IT & programming
+Hi! I like to learn new things, especially related to programming and new technologies. Currently learning **JS / FRONT-END** at [RS School](https://rs.school/). Have experience in sales, system administration, freelance IT & programming
 
 ## **Have basic knowledge of:**
 
